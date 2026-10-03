@@ -1,1 +1,1 @@
-# RD-week2-responsive_hw_starter
+# week2-rd-responsive-hw-starter
